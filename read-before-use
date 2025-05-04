@@ -1,0 +1,9 @@
+I, v1s10n, am not legally responsible for any irresponsible or illegal usage of this program. This program is intended for educational purposes only.
+
+Instructions
+---------------
+Firstly, run initialize.sh by using chmod +x initialize.sh && ./initialize.sh in your terminal.
+
+Lastly, run ./dos in your terminal to start the C program.
+
+Enjoy!
