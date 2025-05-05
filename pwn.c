@@ -11,7 +11,7 @@ int main() {
     int portlist[] = {53, 67, 68, 123, 161, 514, 23, 22, 443};  // List of ports to target
     int listSize = sizeof(portlist) / sizeof(portlist[0]);  // Size of the list
     int counter = 0;  // Start from the first port
-    char message[] = "UDP flood message";  // Example message to send
+    char message[] = "";  // Example message to send
 
     printf("\033[31m");
     printf(" /$$      /$$ /$$$$$$$   /$$$$$$   /$$$$$$ \n");
