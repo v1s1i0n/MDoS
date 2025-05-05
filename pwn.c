@@ -19,6 +19,6 @@ int main() {
     printf("message me directly if you want the script");
     printf("\n");
 
-    while (1 = 1) {
+    while (1 == 1) {
         printf("its not okay to mess with dexter, mike.");
     };
